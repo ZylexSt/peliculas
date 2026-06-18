@@ -15,8 +15,7 @@ body{
     min-height:80vh;
     background:
         linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.8)),
-        url("/fork2/img/portada.webp");
-    background-size:cover;
+    url("../img/portada.webp");    background-size:cover;
     background-position:center;
     display:flex;
     justify-content:center;
